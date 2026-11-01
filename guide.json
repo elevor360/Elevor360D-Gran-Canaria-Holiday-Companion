@@ -1,0 +1,324 @@
+{
+  "version": "3.0",
+  "destination": "Gran Canaria",
+  "updated": "2026-11-01",
+  "intro": "Discover Gran Canaria, from the dunes of Maspalomas and beaches of Puerto Rico to the historic streets of Las Palmas, mountain villages and volcanic landscapes. Save your plans, memorable visits, photos and holiday spending on your device.",
+  "areas": [
+    {
+      "name": "Maspalomas & Meloneras",
+      "description": "Southern resort area with famous dunes, beaches, a lighthouse and seafront dining."
+    },
+    {
+      "name": "Playa del Inglés",
+      "description": "Popular southern resort with a long beach, shops and nightlife."
+    },
+    {
+      "name": "Puerto Rico",
+      "description": "Sunny southwest resort with a sheltered beach, marina and boat trips."
+    },
+    {
+      "name": "Puerto de Mogán",
+      "description": "Picturesque harbour village with canals, cafés and a sandy beach."
+    },
+    {
+      "name": "Las Palmas de Gran Canaria",
+      "description": "Island capital with Las Canteras beach and historic Vegueta."
+    },
+    {
+      "name": "San Agustín",
+      "description": "Quieter coastal resort near Playa del Inglés."
+    },
+    {
+      "name": "Agaete & Puerto de las Nieves",
+      "description": "Northwest coast with dramatic cliffs, natural pools and ferry port."
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Dunas de Maspalomas",
+      "description": "Protected sand-dune landscape; stay on marked permitted paths."
+    },
+    {
+      "name": "Roque Nublo",
+      "description": "Iconic volcanic rock formation in the island interior; check access rules and any reservation requirements."
+    },
+    {
+      "name": "Vegueta, Las Palmas",
+      "description": "Historic district with traditional architecture, museums and squares."
+    },
+    {
+      "name": "Palmitos Park",
+      "description": "Wildlife and botanical attraction near Maspalomas; check animal welfare information, tickets and opening times."
+    },
+    {
+      "name": "Jardín Botánico Canario",
+      "description": "Botanical garden near Las Palmas showcasing Canary Islands plants."
+    },
+    {
+      "name": "Barranco de Guayadeque",
+      "description": "Scenic ravine with caves and viewpoints; drive and walk with care."
+    }
+  ],
+  "transport": [
+    {
+      "name": "Walking",
+      "description": "Promenades are walkable; inland routes can be steep and exposed to sun."
+    },
+    {
+      "name": "Global buses",
+      "description": "Intercity bus network across Gran Canaria; check current routes and timetables."
+    },
+    {
+      "name": "Guaguas Municipales",
+      "description": "City buses within Las Palmas; check fares and stops."
+    },
+    {
+      "name": "Car hire",
+      "description": "Useful for inland villages and viewpoints; mountain roads can be narrow and winding."
+    },
+    {
+      "name": "Taxis",
+      "description": "Licensed taxis operate in resorts and towns; confirm fares or meter before travelling."
+    },
+    {
+      "name": "Airport connections",
+      "description": "Gran Canaria Airport (LPA) has bus, taxi and car-hire connections; check current services."
+    }
+  ],
+  "useful": [
+    {
+      "name": "Emergency services",
+      "description": "Call 112 in an emergency in Spain."
+    },
+    {
+      "name": "Sun and heat",
+      "description": "Use sun protection and carry water, particularly around dunes and inland walks."
+    },
+    {
+      "name": "Sea safety",
+      "description": "Follow lifeguard advice and beach flags; currents and waves can be strong."
+    },
+    {
+      "name": "Currency",
+      "description": "Euro (€); check bank fees and exchange rates."
+    },
+    {
+      "name": "Travel documents",
+      "description": "Check UK government travel advice for Spain and your insurance."
+    },
+    {
+      "name": "Language",
+      "description": "Spanish is the official language; English is widely spoken in major resorts."
+    },
+    {
+      "name": "Time zone",
+      "description": "Gran Canaria uses the same local time as the UK for most of the year."
+    }
+  ],
+  "links": [
+    {
+      "name": "UK travel advice for Spain",
+      "url": "https://www.gov.uk/foreign-travel-advice/spain"
+    },
+    {
+      "name": "Gran Canaria tourism",
+      "url": "https://www.grancanaria.com/turismo/en/"
+    },
+    {
+      "name": "Global bus operator",
+      "url": "https://guaguasglobal.com/en/"
+    },
+    {
+      "name": "AEMET weather",
+      "url": "https://www.aemet.es/en/portada"
+    }
+  ],
+  "advert": {
+    "enabled": false,
+    "image": "adverts/advert.jpg",
+    "link": "",
+    "alt": "Gran Canaria local business advertisement"
+  },
+  "beaches": [
+    {
+      "name": "Playa de Maspalomas",
+      "description": "Wide beach by the protected dunes; check swimming flags."
+    },
+    {
+      "name": "Playa del Inglés",
+      "description": "Long sandy beach with resort facilities and promenades."
+    },
+    {
+      "name": "Playa de Amadores",
+      "description": "Sheltered southwest bay with pale sand and cafés."
+    },
+    {
+      "name": "Playa de Puerto Rico",
+      "description": "Popular family-friendly resort beach near the marina."
+    },
+    {
+      "name": "Playa de Las Canteras",
+      "description": "Urban beach in Las Palmas with a long promenade."
+    },
+    {
+      "name": "Playa de Mogán",
+      "description": "Small sandy beach beside Puerto de Mogán harbour."
+    }
+  ],
+  "markets": [
+    {
+      "name": "Puerto de Mogán market",
+      "description": "Popular market area; verify days and stalls locally."
+    },
+    {
+      "name": "San Mateo market",
+      "description": "Inland town known for regional produce and weekend market atmosphere."
+    },
+    {
+      "name": "Vegueta market area",
+      "description": "Explore food shops and market stalls in historic Las Palmas."
+    },
+    {
+      "name": "Maspalomas shopping",
+      "description": "Browse shopping centres and resort shops; verify opening hours."
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "Playa del Inglés",
+      "description": "Bars, entertainment and clubs, especially around Yumbo Centre."
+    },
+    {
+      "name": "Meloneras",
+      "description": "Seafront restaurants and relaxed evening venues."
+    },
+    {
+      "name": "Puerto Rico",
+      "description": "Resort bars, live entertainment and waterfront dining."
+    },
+    {
+      "name": "Las Palmas",
+      "description": "City restaurants, music venues and evening walks near Las Canteras."
+    }
+  ],
+  "family": [
+    {
+      "name": "Aqualand Maspalomas",
+      "description": "Water park; check height restrictions, tickets and opening hours."
+    },
+    {
+      "name": "Poema del Mar Aquarium",
+      "description": "Aquarium in Las Palmas; check opening times and prices."
+    },
+    {
+      "name": "Puerto de Mogán",
+      "description": "Harbour stroll, beach time and family-friendly cafés."
+    },
+    {
+      "name": "Las Canteras beach day",
+      "description": "Promenade, beach activities and places to eat; supervise children in the sea."
+    },
+    {
+      "name": "Dolphin-watching excursions",
+      "description": "Choose responsible operators and remember wildlife sightings are not guaranteed."
+    }
+  ],
+  "dining": [
+    {
+      "name": "Puerto de Mogán harbour",
+      "description": "Harbourfront restaurants serving seafood and Canarian dishes."
+    },
+    {
+      "name": "Meloneras promenade",
+      "description": "Seafront dining with sunset views."
+    },
+    {
+      "name": "Las Palmas / Vegueta",
+      "description": "Explore tapas, cafés and local cuisine."
+    },
+    {
+      "name": "Puerto Rico marina",
+      "description": "Casual restaurants and cafés near the waterfront."
+    },
+    {
+      "name": "Try local dishes",
+      "description": "Look for papas arrugadas with mojo sauce, gofio and fresh fish."
+    }
+  ],
+  "daytrips": [
+    {
+      "name": "Roque Nublo & Tejeda",
+      "description": "Mountain scenery and village stops; check trail access and driving conditions."
+    },
+    {
+      "name": "Las Palmas & Vegueta",
+      "description": "Historic centre, shops and Las Canteras beach."
+    },
+    {
+      "name": "Puerto de Mogán",
+      "description": "Harbour, cafés and beach; accessible by road or selected boat services."
+    },
+    {
+      "name": "Agaete & Puerto de las Nieves",
+      "description": "Northwest coastal scenery and natural pools; check sea conditions."
+    },
+    {
+      "name": "Teror & Arucas",
+      "description": "Traditional towns, architecture and local food."
+    },
+    {
+      "name": "Guayadeque ravine",
+      "description": "Cave dwellings, landscapes and rural dining; check access."
+    }
+  ],
+  "mapPlaces": [
+    {
+      "name": "Maspalomas Lighthouse",
+      "description": "Lighthouse by Meloneras promenade.",
+      "lat": 27.7357,
+      "lon": -15.5989
+    },
+    {
+      "name": "Playa del Inglés",
+      "description": "Southern resort beach.",
+      "lat": 27.7555,
+      "lon": -15.5709
+    },
+    {
+      "name": "Puerto Rico Beach",
+      "description": "Sheltered southwest resort bay.",
+      "lat": 27.7893,
+      "lon": -15.7105
+    },
+    {
+      "name": "Puerto de Mogán",
+      "description": "Harbour and beach.",
+      "lat": 27.8172,
+      "lon": -15.7655
+    },
+    {
+      "name": "Las Canteras Beach",
+      "description": "City beach in Las Palmas.",
+      "lat": 28.1419,
+      "lon": -15.4356
+    },
+    {
+      "name": "Vegueta",
+      "description": "Historic quarter of Las Palmas.",
+      "lat": 28.1008,
+      "lon": -15.4159
+    },
+    {
+      "name": "Roque Nublo",
+      "description": "Mountain landmark; check access.",
+      "lat": 27.9707,
+      "lon": -15.6124
+    },
+    {
+      "name": "Tejeda",
+      "description": "Mountain village.",
+      "lat": 27.9952,
+      "lon": -15.6151
+    }
+  ]
+}
