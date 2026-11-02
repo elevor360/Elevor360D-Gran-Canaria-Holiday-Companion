@@ -1,0 +1,6 @@
+{
+  "feedUrl": "advertising/adverts.json",
+  "appId": "gran-canaria-companion",
+  "group": "holiday",
+  "refreshMinutes": 30
+}

@@ -1,0 +1,5 @@
+Universal Advertising Manager V1 compatibility
+
+Export adverts from Manager V1. Upload adverts.json into advertising/ and images into advertising/images/.
+Image paths in adverts.json are relative to advertising/adverts.json.
+App ID: gran-canaria-companion; group: holiday.
